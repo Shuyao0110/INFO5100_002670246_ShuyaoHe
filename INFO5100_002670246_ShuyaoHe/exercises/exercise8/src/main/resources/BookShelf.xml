@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookShelf>
+  <Book>
+    <title>Java Programming</title>
+    <publishedYear>2020</publishedYear>
+    <numberOfPages>500</numberOfPages>
+    <authors>Jane Smith,John Doe</authors>
+  </Book>
+  <Book>
+    <title>Data Structures and Algorithms</title>
+    <publishedYear>2018</publishedYear>
+    <numberOfPages>400</numberOfPages>
+    <authors>Alan Walker,Emily Brown</authors>
+  </Book>
+  <Book>
+    <title>Web Development Basics</title>
+    <publishedYear>2022</publishedYear>
+    <numberOfPages>300</numberOfPages>
+    <authors>Michael Johnson</authors>
+  </Book>
+</BookShelf>

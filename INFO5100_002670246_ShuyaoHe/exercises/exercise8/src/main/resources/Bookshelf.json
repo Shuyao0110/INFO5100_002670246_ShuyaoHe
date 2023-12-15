@@ -1,0 +1,32 @@
+{
+  "BookShelf": {
+    "Book": [
+      {
+        "title": "Java Programming",
+        "publishedYear": "2020",
+        "numberOfPages": "500",
+        "authors": [
+          "John Doe",
+          "Jane Smith"
+        ]
+      },
+      {
+        "title": "Data Structures and Algorithms",
+        "publishedYear": "2018",
+        "numberOfPages": "400",
+        "authors": [
+          "Alan Walker",
+          "Emily Brown"
+        ]
+      },
+      {
+        "title": "Web Development Basics",
+        "publishedYear": "2022",
+        "numberOfPages": "300",
+        "authors": [
+          "Michael Johnson"
+        ]
+      }
+    ]
+  }
+}
